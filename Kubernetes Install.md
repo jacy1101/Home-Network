@@ -219,4 +219,4 @@ rm -rf /usr/share/kuboard
 #### 参考文章
 
 - [安装 Kubernetes 集群](https://k8s.easydoc.net/docs/dRiQjyTY/28366845/6GiNOzyZ/nd7yOvdY)
-- 
+- [安装 Kuboard v3 - kubernetes](https://kuboard.cn/install/v3/install-in-k8s.html)
